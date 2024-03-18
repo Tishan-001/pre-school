@@ -28,5 +28,5 @@ Ensure you have the following installed on your system:
 
 1. Clone the repo
    ```sh
-   git clone <https://github.com/Tishan-001/pre-school.git>
+   git clone https://github.com/Tishan-001/pre-school.git
 
