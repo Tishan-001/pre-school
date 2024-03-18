@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "169025738096",
+    "firebase_url": "https://pre-school-88b37-default-rtdb.firebaseio.com",
+    "project_id": "pre-school-88b37",
+    "storage_bucket": "pre-school-88b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169025738096:android:e4ceb227d3b54fc2c9abb5",
+        "android_client_info": {
+          "package_name": "com.example.pre_school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8N1SBAv__hB9H5Mo2Bt3StYj0uICUt7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
